@@ -1,0 +1,23 @@
+/* Farhan Akhtar */
+:root {
+  --color-one: #F7374F;
+  --color-two: #88304E;
+  --color-three: #522546;
+  --color-four: #181818;
+  --color-five: rgb(246, 246, 246);
+  --color-six: #94FC13;
+}
+
+body{
+  background-color: var(--color-four);
+  color: var(--color-five);
+  padding: 30px;
+}
+
+h1, h3, p{
+  user-select: none;
+}
+
+h1, p{
+  margin: 0;
+}

@@ -1,0 +1,73 @@
+/* Farhan Akhtar */
+#greeting{
+    display: flex;
+    box-sizing: border-box;
+    height: 88vh;
+}
+
+#greeting h1{
+    font-size: 90px;
+}
+
+p{
+    font-size: 20px;
+}
+
+#greeting div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#greeting div:first-child{
+    flex-basis: 80%;
+}
+
+#greeting img{
+    width: 100%;
+    min-width: 300px;
+}
+
+#nvidiaDesc{
+    margin-bottom: 100px;
+}
+
+#nvidiaDesc, #AMDDesc{
+    display: flex;
+    justify-content: space-between;
+}
+
+#nvidiaDesc div:first-child, #AMDDesc div:last-child{
+    flex-basis: 60%;
+}
+
+#nvidiaDesc div:last-child{
+    background-image: radial-gradient(var(--color-six) 1%, var(--color-four) 55%);
+}
+
+#AMDDesc div:first-child{
+    background-image: radial-gradient(var(--color-one) 1%, var(--color-four) 55%);
+}
+
+#nvidiaDesc img{
+    rotate: -15deg;
+}
+
+#nvidiaDesc img, #AMDDesc img{
+    width: 100%;
+    margin-top: 50px;
+    max-width: 400px;
+    min-width: 300px;
+}
+
+#nvidiaDesc h1{
+    border-bottom: 1px solid var(--color-six);
+}
+
+#AMDDesc h1{
+    border-bottom: 1px solid var(--color-one);
+}
+
+#AMDDesc div{
+    text-align: right;
+}

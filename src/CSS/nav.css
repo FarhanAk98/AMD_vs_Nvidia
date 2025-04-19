@@ -1,0 +1,41 @@
+/* Farhan Akhtar */
+/* Achal Boniface Sood */
+#navbar {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: var(--color-three);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+#navbar h3 {
+    margin: 0;
+    font-size: 28px;
+    color: var(--color-six);
+    font-weight: bold;
+}
+
+#navbar nav {
+    display: flex;
+    gap: 30px;
+}
+
+#navbar nav a {
+    text-decoration: none;
+    color: var(--color-five);
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    border-radius: 8px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#navbar nav a:hover {
+    background-color: var(--color-six);
+    color: var(--color-four);
+    font-weight: bold;
+}

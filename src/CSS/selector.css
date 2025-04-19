@@ -1,0 +1,100 @@
+/* Achal Boniface Sood */
+
+.selector-container {
+  padding: 40px;
+  color: var(--color-five);
+  background-color: #0f0f0f; /* improved deep neutral for contrast */
+  min-height: 100vh;
+}
+
+.selector-container h1 {
+  font-size: 48px;
+  margin-bottom: 40px;
+  color: var(--color-six);
+}
+
+.selector-form {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 600px;
+  margin: auto;
+  background-color: #1a1a1a; /* updated for consistency and contrast */
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.selector-form label {
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+  color: var(--color-five);
+}
+
+.selector-form select,
+.selector-form input[type="range"] {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.selector-form button {
+  padding: 15px;
+  font-size: 18px;
+  background-color: #5acc00; /* accessible green */
+  color: #ffffff; /* strong contrast */
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.selector-form button:hover {
+  background-color: #00e6b8; /* soft cyan */
+  color: #121212;
+  font-weight: bold;
+}
+
+/* Brand color themes for headings with better contrast */
+.green-theme h1,
+.green-theme h2,
+.green-theme h3 {
+  color: #128c39;
+}
+
+.red-theme h1,
+.red-theme h2,
+.red-theme h3 {
+  color: #c23a0f;
+}
+
+/* GPU details font color per brand with fallback */
+.gpu-details {
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: var(--color-five);
+}
+
+.green-theme .gpu-details {
+  color: #128c39;
+}
+
+.red-theme .gpu-details {
+  color: #c23a0f;
+}
+
+.contact-link {
+  color: #5acc00;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.3s ease, border-bottom 0.3s ease;
+  border-bottom: 2px solid transparent;
+}
+
+.contact-link:hover {
+  color: #00e6b8;
+  border-bottom: 2px solid #00e6b8;
+}

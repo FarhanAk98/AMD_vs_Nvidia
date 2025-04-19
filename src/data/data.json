@@ -1,0 +1,1029 @@
+{
+    "cards": [
+        {
+            "brand": "Nvidia",
+            "series": "RTX 30",
+            "model": "RTX 3060",
+            "memory": "12GB GDDR6",
+            "boostClockMHz": 1777,
+            "cudaCores": 3584,
+            "mpn": "RTX306012G",
+            "priceUSD": 329,
+            "rayTracing": true,
+            "intendedUse": [
+                "casual gaming",
+                "entry-level editing"
+            ],
+            "apps": [
+                "Valorant",
+                "Photoshop"
+            ],
+            "powerConsumptionW": 170,
+            "productivityPerformance": {
+                "videoEditing": 65,
+                "3DRendering": 63,
+                "streaming": 64
+            },
+            "gamingPerformance": {
+                "1080p": 70,
+                "1440p": 67,
+                "4k": 64,
+                "rayTracing": 68,
+                "rasterization": 69
+            },
+            "image": "https://tpucdn.com/gpu-specs/images/c/3682-front.small.jpg"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 30",
+            "model": "RTX 3080",
+            "memory": "10GB GDDR6X",
+            "boostClockMHz": 1710,
+            "cudaCores": 8704,
+            "mpn": "RTX308010G",
+            "priceUSD": 699,
+            "rayTracing": true,
+            "intendedUse": [
+                "gaming",
+                "3D rendering"
+            ],
+            "apps": [
+                "Cyberpunk 2077",
+                "Blender"
+            ],
+            "powerConsumptionW": 320,
+            "productivityPerformance": {
+                "videoEditing": 80,
+                "3DRendering": 78,
+                "streaming": 79
+            },
+            "gamingPerformance": {
+                "1080p": 85,
+                "1440p": 82,
+                "4k": 79,
+                "rayTracing": 83,
+                "rasterization": 84
+            },
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3080-12-GB-Graphics-Card-low_res-scale-4_00x-scaled.jpg"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 40",
+            "model": "RTX 4070",
+            "memory": "12GB GDDR6X",
+            "boostClockMHz": 2475,
+            "cudaCores": 5888,
+            "mpn": "RTX407012G",
+            "priceUSD": 599,
+            "rayTracing": true,
+            "intendedUse": [
+                "gaming",
+                "video editing"
+            ],
+            "apps": [
+                "Adobe Premiere",
+                "Elden Ring"
+            ],
+            "powerConsumptionW": 200,
+            "productivityPerformance": {
+                "videoEditing": 77,
+                "3DRendering": 75,
+                "streaming": 76
+            },
+            "gamingPerformance": {
+                "1080p": 82,
+                "1440p": 79,
+                "4k": 76,
+                "rayTracing": 80,
+                "rasterization": 81
+            },
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/IMG_0984.jpeg"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 50",
+            "model": "RTX 5090 Windforce OC Triple Fan",
+            "memory": "32GB GDDR7",
+            "boostClockMHz": 2467,
+            "cudaCores": 21760,
+            "mpn": "805564",
+            "priceUSD": 1799,
+            "rayTracing": true,
+            "intendedUse": [
+                "gaming",
+                "video editing",
+                "3D rendering"
+            ],
+            "apps": [
+                "Unreal Engine",
+                "Premiere Pro",
+                "Cyberpunk 2077"
+            ],
+            "powerConsumptionW": 420,
+            "productivityPerformance": {
+                "videoEditing": 93,
+                "3DRendering": 91,
+                "streaming": 92
+            },
+            "gamingPerformance": {
+                "1080p": 98,
+                "1440p": 95,
+                "4k": 92,
+                "rayTracing": 96,
+                "rasterization": 97
+            },
+            "image": "https://static.gigabyte.com/StaticFile/Image/Global/f0f245a0268582e4e4da287048655c1e/Product/43858/Png"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 6000",
+            "model": "RX 6600 XT",
+            "memory": "8GB GDDR6",
+            "boostClockMHz": 2589,
+            "streamProcessors": 2048,
+            "mpn": "RX6600XT8G",
+            "priceUSD": 379,
+            "rayTracing": true,
+            "intendedUse": [
+                "casual gaming"
+            ],
+            "apps": [
+                "Apex Legends"
+            ],
+            "powerConsumptionW": 160,
+            "productivityPerformance": {
+                "videoEditing": 62,
+                "3DRendering": 59,
+                "streaming": 66
+            },
+            "gamingPerformance": {
+                "1080p": 82,
+                "1440p": 70,
+                "4k": 52,
+                "rayTracing": 50,
+                "rasterization": 77
+            },
+            "image": "https://asset.msi.com/resize/image/global/product/product_1627614535a92069d43bae9ee0db8eada2acefbe33.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 7000",
+            "model": "RX 7900 XTX",
+            "memory": "24GB GDDR6",
+            "boostClockMHz": 2500,
+            "streamProcessors": 6144,
+            "mpn": "RX7900XTX24G",
+            "priceUSD": 999,
+            "rayTracing": true,
+            "intendedUse": [
+                "gaming",
+                "content creation"
+            ],
+            "apps": [
+                "DaVinci Resolve",
+                "Hogwarts Legacy"
+            ],
+            "powerConsumptionW": 355,
+            "productivityPerformance": {
+                "videoEditing": 91,
+                "3DRendering": 88,
+                "streaming": 85
+            },
+            "gamingPerformance": {
+                "1080p": 96,
+                "1440p": 94,
+                "4k": 90,
+                "rayTracing": 87,
+                "rasterization": 93
+            },
+            "image": "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%207900%20XTX%20Taichi%2024GB%20OC(L1).png"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 9000",
+            "model": "RX 9070 XT",
+            "memory": "24GB GDDR6",
+            "boostClockMHz": 2300,
+            "streamProcessors": 12288,
+            "mpn": "907XT24G",
+            "priceUSD": 999,
+            "rayTracing": true,
+            "intendedUse": [
+                "gaming",
+                "content creation"
+            ],
+            "apps": [
+                "DaVinci Resolve",
+                "Blender",
+                "Valorant"
+            ],
+            "powerConsumptionW": 350,
+            "productivityPerformance": {
+                "videoEditing": 89,
+                "3DRendering": 86,
+                "streaming": 84
+            },
+            "gamingPerformance": {
+                "1080p": 93,
+                "1440p": 91,
+                "4k": 87,
+                "rayTracing": 82,
+                "rasterization": 90
+            },
+            "image": "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%209070%20XT%20Taichi%2016GB%20OC(L1).png"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 30",
+            "model": "RTX 3050",
+            "memory": "8GB GDDR6",
+            "boostClockMHz": 1777,
+            "cudaCores": 2560,
+            "priceUSD": 249,
+            "rayTracing": true,
+            "powerConsumptionW": 130,
+            "productivityPerformance": {
+                "videoEditing": 60,
+                "3DRendering": 58,
+                "streaming": 59
+            },
+            "gamingPerformance": {
+                "1080p": 65,
+                "1440p": 62,
+                "4k": 59,
+                "rayTracing": 63,
+                "rasterization": 64
+            },
+            "image": "https://external-preview.redd.it/nvidia-geforce-rtx-3050-6-gb-review-the-fastest-slot-v0-YeX-HnwV1vcNtvPuDDIcW4pnDLfD1tccOEfrHrA_keM.jpg?auto=webp&s=973ee3cd6a99f0ad9cba39a4103eee3d1e436484"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 30",
+            "model": "RTX 3060 Ti",
+            "memory": "8GB GDDR6",
+            "boostClockMHz": 1665,
+            "cudaCores": 4864,
+            "priceUSD": 399,
+            "rayTracing": true,
+            "powerConsumptionW": 200,
+            "productivityPerformance": {
+                "videoEditing": 70,
+                "3DRendering": 68,
+                "streaming": 69
+            },
+            "gamingPerformance": {
+                "1080p": 75,
+                "1440p": 72,
+                "4k": 69,
+                "rayTracing": 73,
+                "rasterization": 74
+            },
+            "image": "https://imageio.forbes.com/specials-images/imageserve/5fc5aa2211b9f9ba97118c66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 30",
+            "model": "RTX 3070",
+            "memory": "8GB GDDR6",
+            "boostClockMHz": 1725,
+            "cudaCores": 5888,
+            "priceUSD": 499,
+            "rayTracing": true,
+            "powerConsumptionW": 220,
+            "productivityPerformance": {
+                "videoEditing": 73,
+                "3DRendering": 71,
+                "streaming": 72
+            },
+            "gamingPerformance": {
+                "1080p": 78,
+                "1440p": 75,
+                "4k": 72,
+                "rayTracing": 76,
+                "rasterization": 77
+            },
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/IMG_1167-scaled.jpg"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 30",
+            "model": "RTX 3070 Ti",
+            "memory": "8GB GDDR6X",
+            "boostClockMHz": 1770,
+            "cudaCores": 6144,
+            "priceUSD": 599,
+            "rayTracing": true,
+            "powerConsumptionW": 290,
+            "productivityPerformance": {
+                "videoEditing": 76,
+                "3DRendering": 74,
+                "streaming": 75
+            },
+            "gamingPerformance": {
+                "1080p": 81,
+                "1440p": 78,
+                "4k": 75,
+                "rayTracing": 79,
+                "rasterization": 80
+            },
+            "image": "https://www.pcworld.com/wp-content/uploads/2023/04/dsc01630-100891500-orig.jpg?quality=50&strip=all"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 30",
+            "model": "RTX 3090",
+            "memory": "24GB GDDR6X",
+            "boostClockMHz": 1695,
+            "cudaCores": 10496,
+            "priceUSD": 1499,
+            "rayTracing": true,
+            "powerConsumptionW": 350,
+            "productivityPerformance": {
+                "videoEditing": 83,
+                "3DRendering": 81,
+                "streaming": 82
+            },
+            "gamingPerformance": {
+                "1080p": 88,
+                "1440p": 85,
+                "4k": 82,
+                "rayTracing": 86,
+                "rasterization": 87
+            },
+            "image": "https://m.media-amazon.com/images/I/61wbV8oqAbL.jpg"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 40",
+            "model": "RTX 4050",
+            "memory": "6GB GDDR6",
+            "boostClockMHz": 1780,
+            "cudaCores": 2560,
+            "priceUSD": 229,
+            "rayTracing": true,
+            "powerConsumptionW": 115,
+            "productivityPerformance": {
+                "videoEditing": 63,
+                "3DRendering": 61,
+                "streaming": 62
+            },
+            "gamingPerformance": {
+                "1080p": 68,
+                "1440p": 65,
+                "4k": 62,
+                "rayTracing": 66,
+                "rasterization": 67
+            },
+            "image": "https://cdn.custompc.com/wp-content/sites/custompc/2023/08/nvidia-geforce-rtx-4050-release-date-specs-price-rumors.jpg"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 40",
+            "model": "RTX 4060",
+            "memory": "8GB GDDR6",
+            "boostClockMHz": 2460,
+            "cudaCores": 3072,
+            "priceUSD": 299,
+            "rayTracing": true,
+            "powerConsumptionW": 115,
+            "productivityPerformance": {
+                "videoEditing": 67,
+                "3DRendering": 65,
+                "streaming": 66
+            },
+            "gamingPerformance": {
+                "1080p": 72,
+                "1440p": 69,
+                "4k": 66,
+                "rayTracing": 70,
+                "rasterization": 71
+            },
+            "image": "https://m.media-amazon.com/images/I/71N7BLpLAhL.jpg"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 40",
+            "model": "RTX 4060 Ti",
+            "memory": "8GB GDDR6",
+            "boostClockMHz": 2535,
+            "cudaCores": 4352,
+            "priceUSD": 399,
+            "rayTracing": true,
+            "powerConsumptionW": 160,
+            "productivityPerformance": {
+                "videoEditing": 71,
+                "3DRendering": 69,
+                "streaming": 70
+            },
+            "gamingPerformance": {
+                "1080p": 76,
+                "1440p": 73,
+                "4k": 70,
+                "rayTracing": 74,
+                "rasterization": 75
+            },
+            "image": "https://m.media-amazon.com/images/I/71ctFx4t8+L.jpg"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 40",
+            "model": "RTX 4070 Super",
+            "memory": "12GB GDDR6X",
+            "boostClockMHz": 2475,
+            "cudaCores": 7168,
+            "priceUSD": 599,
+            "rayTracing": true,
+            "powerConsumptionW": 220,
+            "productivityPerformance": {
+                "videoEditing": 80,
+                "3DRendering": 78,
+                "streaming": 79
+            },
+            "gamingPerformance": {
+                "1080p": 85,
+                "1440p": 82,
+                "4k": 79,
+                "rayTracing": 83,
+                "rasterization": 84
+            },
+            "image": "https://i.ebayimg.com/images/g/JMgAAOSwmfJlplZP/s-l1200.jpg"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 40",
+            "model": "RTX 4080",
+            "memory": "16GB GDDR6X",
+            "boostClockMHz": 2505,
+            "cudaCores": 9728,
+            "priceUSD": 1199,
+            "rayTracing": true,
+            "powerConsumptionW": 320,
+            "productivityPerformance": {
+                "videoEditing": 85,
+                "3DRendering": 83,
+                "streaming": 84
+            },
+            "gamingPerformance": {
+                "1080p": 90,
+                "1440p": 87,
+                "4k": 84,
+                "rayTracing": 88,
+                "rasterization": 89
+            },
+            "image": "https://m.media-amazon.com/images/I/71m9FJCubXL.jpg"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 40",
+            "model": "RTX 4080 Super",
+            "memory": "16GB GDDR6X",
+            "boostClockMHz": 2550,
+            "cudaCores": 10240,
+            "priceUSD": 999,
+            "rayTracing": true,
+            "powerConsumptionW": 320,
+            "productivityPerformance": {
+                "videoEditing": 87,
+                "3DRendering": 85,
+                "streaming": 86
+            },
+            "gamingPerformance": {
+                "1080p": 92,
+                "1440p": 89,
+                "4k": 86,
+                "rayTracing": 90,
+                "rasterization": 91
+            },
+            "image": "https://m.media-amazon.com/images/I/71-r9mRIZBL.jpg"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 40",
+            "model": "RTX 4090",
+            "memory": "24GB GDDR6X",
+            "boostClockMHz": 2520,
+            "cudaCores": 16384,
+            "priceUSD": 1599,
+            "rayTracing": true,
+            "powerConsumptionW": 450,
+            "productivityPerformance": {
+                "videoEditing": 90,
+                "3DRendering": 88,
+                "streaming": 89
+            },
+            "gamingPerformance": {
+                "1080p": 95,
+                "1440p": 92,
+                "4k": 89,
+                "rayTracing": 93,
+                "rasterization": 94
+            },
+            "image": "data:image/jpeg;base64,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"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 50",
+            "model": "RTX 5070",
+            "memory": "12GB GDDR7",
+            "boostClockMHz": 2500,
+            "cudaCores": 7680,
+            "priceUSD": 699,
+            "rayTracing": true,
+            "powerConsumptionW": 300,
+            "productivityPerformance": {
+                "videoEditing": 84,
+                "3DRendering": 82,
+                "streaming": 83
+            },
+            "gamingPerformance": {
+                "1080p": 89,
+                "1440p": 86,
+                "4k": 83,
+                "rayTracing": 87,
+                "rasterization": 88
+            },
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBKZmQ6mcLRN_H-PCQB5k4D219OapKXq2WQ&s"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 50",
+            "model": "RTX 5070 Ti",
+            "memory": "16GB GDDR7",
+            "boostClockMHz": 2550,
+            "cudaCores": 8960,
+            "priceUSD": 799,
+            "rayTracing": true,
+            "powerConsumptionW": 340,
+            "productivityPerformance": {
+                "videoEditing": 86,
+                "3DRendering": 84,
+                "streaming": 85
+            },
+            "gamingPerformance": {
+                "1080p": 91,
+                "1440p": 88,
+                "4k": 85,
+                "rayTracing": 89,
+                "rasterization": 90
+            },
+            "image": "https://asset.msi.com/resize/image/global/product/product_1738567494b5a1a4c58600a87f33be548bb80e081d.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 50",
+            "model": "RTX 5080",
+            "memory": "20GB GDDR7",
+            "boostClockMHz": 2600,
+            "cudaCores": 10752,
+            "priceUSD": 1199,
+            "rayTracing": true,
+            "powerConsumptionW": 400,
+            "productivityPerformance": {
+                "videoEditing": 88,
+                "3DRendering": 86,
+                "streaming": 87
+            },
+            "gamingPerformance": {
+                "1080p": 93,
+                "1440p": 90,
+                "4k": 87,
+                "rayTracing": 91,
+                "rasterization": 92
+            },
+            "image": "https://m.media-amazon.com/images/I/61sC+RfFpFL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "brand": "Nvidia",
+            "series": "RTX 50",
+            "model": "RTX 5090",
+            "memory": "24GB GDDR7",
+            "boostClockMHz": 2700,
+            "cudaCores": 15360,
+            "priceUSD": 1599,
+            "rayTracing": true,
+            "powerConsumptionW": 480,
+            "productivityPerformance": {
+                "videoEditing": 92,
+                "3DRendering": 90,
+                "streaming": 91
+            },
+            "gamingPerformance": {
+                "1080p": 97,
+                "1440p": 94,
+                "4k": 91,
+                "rayTracing": 95,
+                "rasterization": 96
+            },
+            "image": "https://img-cdn.thepublive.com/filters:format(webp)/industry-wired/media/media_files/2025/01/07/IaZMrvRdDN34jruocP6y.jpg"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 6000",
+            "model": "RX 6500 XT",
+            "memory": "4GB GDDR6",
+            "boostClockMHz": 2815,
+            "streamProcessors": 1024,
+            "priceUSD": 199,
+            "rayTracing": true,
+            "powerConsumptionW": 107,
+            "productivityPerformance": {
+                "videoEditing": 61,
+                "3DRendering": 87,
+                "streaming": 63
+            },
+            "gamingPerformance": {
+                "1080p": 68,
+                "1440p": 55,
+                "4k": 42,
+                "rayTracing": 40,
+                "rasterization": 63
+            },
+            "image": "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206500%20XT%20Phantom%20Gaming%208GB%20OC.png"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 6000",
+            "model": "RX 6600",
+            "memory": "8GB GDDR6",
+            "boostClockMHz": 2491,
+            "streamProcessors": 1792,
+            "priceUSD": 329,
+            "rayTracing": true,
+            "powerConsumptionW": 132,
+            "productivityPerformance": {
+                "videoEditing": 68,
+                "3DRendering": 75,
+                "streaming": 82
+            },
+            "gamingPerformance": {
+                "1080p": 76,
+                "1440p": 61,
+                "4k": 53,
+                "rayTracing": 50,
+                "rasterization": 70
+            },
+            "image": "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206600%20Challenger%20D%208GB(L1).png"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 6000",
+            "model": "RX 6650 XT",
+            "memory": "8GB GDDR6",
+            "boostClockMHz": 2635,
+            "streamProcessors": 2048,
+            "priceUSD": 399,
+            "rayTracing": true,
+            "powerConsumptionW": 180,
+            "productivityPerformance": {
+                "videoEditing": 81,
+                "3DRendering": 82,
+                "streaming": 73
+            },
+            "gamingPerformance": {
+                "1080p": 69,
+                "1440p": 96,
+                "4k": 61,
+                "rayTracing": 56,
+                "rasterization": 83
+            },
+            "image": "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206650%20XT%20Challenger%20D%208GB%20OC(L1).png"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 6000",
+            "model": "RX 6700",
+            "memory": "10GB GDDR6",
+            "boostClockMHz": 2450,
+            "streamProcessors": 2304,
+            "priceUSD": 479,
+            "rayTracing": true,
+            "powerConsumptionW": 220,
+            "productivityPerformance": {
+                "videoEditing": 68,
+                "3DRendering": 65,
+                "streaming": 73
+            },
+            "gamingPerformance": {
+                "1080p": 74,
+                "1440p": 61,
+                "4k": 60,
+                "rayTracing": 71,
+                "rasterization": 90
+            },
+            "image": "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206700%20XT%20Challenger%20Pro%2012GB%20OC(L1).png"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 6000",
+            "model": "RX 6700 XT",
+            "memory": "12GB GDDR6",
+            "boostClockMHz": 2581,
+            "streamProcessors": 2560,
+            "priceUSD": 479,
+            "rayTracing": true,
+            "powerConsumptionW": 230,
+            "productivityPerformance": {
+                "videoEditing": 93,
+                "3DRendering": 69,
+                "streaming": 88
+            },
+            "gamingPerformance": {
+                "1080p": 81,
+                "1440p": 90,
+                "4k": 63,
+                "rayTracing": 68,
+                "rasterization": 76
+            },
+            "image": "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206700%20XT%20Challenger%20D%2012GB%20OC(L1).png"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 6000",
+            "model": "RX 6750 XT",
+            "memory": "12GB GDDR6",
+            "boostClockMHz": 2600,
+            "streamProcessors": 2560,
+            "priceUSD": 549,
+            "rayTracing": true,
+            "powerConsumptionW": 250,
+            "productivityPerformance": {
+                "videoEditing": 86,
+                "3DRendering": 64,
+                "streaming": 60
+            },
+            "gamingPerformance": {
+                "1080p": 78,
+                "1440p": 64,
+                "4k": 65,
+                "rayTracing": 56,
+                "rasterization": 72
+            },
+            "image": "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206750%20XT%20Challenger%20Pro%2012GB%20OC(L1).png"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 6000",
+            "model": "RX 6800",
+            "memory": "16GB GDDR6",
+            "boostClockMHz": 2105,
+            "streamProcessors": 3840,
+            "priceUSD": 579,
+            "rayTracing": true,
+            "powerConsumptionW": 250,
+            "productivityPerformance": {
+                "videoEditing": 69,
+                "3DRendering": 68,
+                "streaming": 78
+            },
+            "gamingPerformance": {
+                "1080p": 74,
+                "1440p": 82,
+                "4k": 60,
+                "rayTracing": 89,
+                "rasterization": 91
+            },
+            "image": "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20Challenger%20Pro%2016G%20OC(L1).png"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 6000",
+            "model": "RX 6800 XT",
+            "memory": "16GB GDDR6",
+            "boostClockMHz": 2250,
+            "streamProcessors": 4608,
+            "priceUSD": 649,
+            "rayTracing": true,
+            "powerConsumptionW": 300,
+            "productivityPerformance": {
+                "videoEditing": 73,
+                "3DRendering": 85,
+                "streaming": 73
+            },
+            "gamingPerformance": {
+                "1080p": 65,
+                "1440p": 94,
+                "4k": 87,
+                "rayTracing": 90,
+                "rasterization": 79
+            },
+            "image": "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Taichi%20X%2016G%20OC(L1).png"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 6000",
+            "model": "RX 6900 XT",
+            "memory": "16GB GDDR6",
+            "boostClockMHz": 2250,
+            "streamProcessors": 5120,
+            "priceUSD": 699,
+            "rayTracing": true,
+            "powerConsumptionW": 300,
+            "productivityPerformance": {
+                "videoEditing": 82,
+                "3DRendering": 78,
+                "streaming": 68
+            },
+            "gamingPerformance": {
+                "1080p": 67,
+                "1440p": 91,
+                "4k": 86,
+                "rayTracing": 92,
+                "rasterization": 66
+            },
+            "image": "https://m.media-amazon.com/images/I/81L5pyFMhgL.jpg"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 6000",
+            "model": "RX 6950 XT",
+            "memory": "16GB GDDR6",
+            "boostClockMHz": 2310,
+            "streamProcessors": 5120,
+            "priceUSD": 799,
+            "rayTracing": true,
+            "powerConsumptionW": 335,
+            "productivityPerformance": {
+                "videoEditing": 71,
+                "3DRendering": 80,
+                "streaming": 61
+            },
+            "gamingPerformance": {
+                "1080p": 81,
+                "1440p": 85,
+                "4k": 57,
+                "rayTracing": 78,
+                "rasterization": 79
+            },
+            "image": "https://m.media-amazon.com/images/I/71btzoKjPmL.jpg"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 7000",
+            "model": "RX 7600",
+            "memory": "8GB GDDR6",
+            "boostClockMHz": 2655,
+            "streamProcessors": 2048,
+            "priceUSD": 269,
+            "rayTracing": true,
+            "powerConsumptionW": 165,
+            "productivityPerformance": {
+                "videoEditing": 60,
+                "3DRendering": 79,
+                "streaming": 88
+            },
+            "gamingPerformance": {
+                "1080p": 81,
+                "1440p": 79,
+                "4k": 59,
+                "rayTracing": 60,
+                "rasterization": 71
+            },
+            "image": "https://static.gigabyte.com/StaticFile/Image/Global/dd312f05059ab82599b53f8d929550d6/Product/31515/Png"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 7000",
+            "model": "RX 7600 XT",
+            "memory": "16GB GDDR6",
+            "boostClockMHz": 2755,
+            "streamProcessors": 2048,
+            "priceUSD": 329,
+            "rayTracing": true,
+            "powerConsumptionW": 190,
+            "productivityPerformance": {
+                "videoEditing": 89,
+                "3DRendering": 82,
+                "streaming": 83
+            },
+            "gamingPerformance": {
+                "1080p": 71,
+                "1440p": 62,
+                "4k": 81,
+                "rayTracing": 62,
+                "rasterization": 68
+            },
+            "image": "https://m.media-amazon.com/images/I/81mGUw5vJlL.jpg"
+        },
+       
+        {
+            "brand": "AMD",
+            "series": "RX 7000",
+            "model": "RX 7700 XT",
+            "memory": "12GB GDDR6",
+            "boostClockMHz": 2584,
+            "streamProcessors": 3456,
+            "priceUSD": 479,
+            "rayTracing": true,
+            "powerConsumptionW": 260,
+            "productivityPerformance": {
+                "videoEditing": 85,
+                "3DRendering": 64,
+                "streaming": 76
+            },
+            "gamingPerformance": {
+                "1080p": 92,
+                "1440p": 78,
+                "4k": 88,
+                "rayTracing": 65,
+                "rasterization": 64
+            },
+            "image": "https://m.media-amazon.com/images/I/81mGUw5vJlL.jpg"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 7000",
+            "model": "RX 7800 XT",
+            "memory": "16GB GDDR6",
+            "boostClockMHz": 2430,
+            "streamProcessors": 3840,
+            "priceUSD": 499,
+            "rayTracing": true,
+            "powerConsumptionW": 263,
+            "productivityPerformance": {
+                "videoEditing": 71,
+                "3DRendering": 85,
+                "streaming": 84
+            },
+            "gamingPerformance": {
+                "1080p": 71,
+                "1440p": 80,
+                "4k": 56,
+                "rayTracing": 90,
+                "rasterization": 74
+            },
+            "image": "https://m.media-amazon.com/images/I/71GKfo5qtaL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 7000",
+            "model": "RX 7900 GRE",
+            "memory": "16GB GDDR6",
+            "boostClockMHz": 2245,
+            "streamProcessors": 5120,
+            "priceUSD": 649,
+            "rayTracing": true,
+            "powerConsumptionW": 260,
+            "productivityPerformance": {
+                "videoEditing": 84,
+                "3DRendering": 75,
+                "streaming": 63
+            },
+            "gamingPerformance": {
+                "1080p": 89,
+                "1440p": 96,
+                "4k": 79,
+                "rayTracing": 67,
+                "rasterization": 60
+            },
+            "image": "https://m.media-amazon.com/images/I/81oW6EGJ7kL.jpg"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 7000",
+            "model": "RX 7900 XT",
+            "memory": "20GB GDDR6",
+            "boostClockMHz": 2400,
+            "streamProcessors": 5376,
+            "priceUSD": 899,
+            "rayTracing": true,
+            "powerConsumptionW": 300,
+            "productivityPerformance": {
+                "videoEditing": 86,
+                "3DRendering": 81,
+                "streaming": 79
+            },
+            "gamingPerformance": {
+                "1080p": 84,
+                "1440p": 92,
+                "4k": 81,
+                "rayTracing": 75,
+                "rasterization": 93
+            },
+            "image": "https://m.media-amazon.com/images/I/71tv3YrVPKL.jpg"
+        },
+        {
+            "brand": "AMD",
+            "series": "RX 9000",
+            "model": "RX 9070",
+            "memory": "24GB GDDR6",
+            "boostClockMHz": 2300,
+            "streamProcessors": 12288,
+            "priceUSD": 999,
+            "rayTracing": true,
+            "powerConsumptionW": 350,
+            "productivityPerformance": {
+                "videoEditing": 93,
+                "3DRendering": 76,
+                "streaming": 92
+            },
+            "gamingPerformance": {
+                "1080p": 84,
+                "1440p": 73,
+                "4k": 93,
+                "rayTracing": 89,
+                "rasterization": 70
+            },
+            "image": "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%209070%20Challenger%2016GB(M1).png"
+        }
+    ]
+}
